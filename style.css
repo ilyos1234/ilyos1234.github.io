@@ -1,0 +1,207 @@
+h1 {
+	color:black;
+	font-style :italic;
+	padding: 25px;
+	margin-right:500px;
+	margin-left:500px;
+	border-radius:10px;
+}
+
+
+#one {
+	color:blues;
+	text-align: left;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	border-top-left-radius: 433px, 500px;
+	border-color: rgb(255,255,255);
+	border-style: solid;
+	}
+
+h2 {
+	color :rgb(255,87,89);
+	color:white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+body {
+	background-color:rgb(105,155,152);
+	padding: 0;
+	margin: 0;
+}
+img{
+	float: left;
+}
+
+#main {
+	float:left;
+	text-align: center;
+	background-color:rgb(3,91,75);
+	border-radius: 15px;
+	padding:5px 15px
+}
+
+#name {
+	text-align: center;
+}
+#inf {
+	text-align: left;
+	color:white;
+	font-size: 20pt;
+	font-weight: italic;
+
+}
+#hobby {
+	float:right;
+	background-color: rgb(45,62,80);
+	width:325px;
+	height: 317px;
+	border-radius:15px;
+}
+
+img {
+
+}
+
+.inf {
+	color :rgb(255,191,0);
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#pi {
+	text-align: center;
+	font-size:25pt;
+	font-style: italic;
+	color:white; 
+	margin-top: -12px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+#inha {
+	font-size:17pt;
+	text-align: left;
+	padding-bottom: 60px;
+}
+
+
+#avatar {
+width: 470px;
+height: 303px;
+margin-left: 81px;
+margin-top:8px ;
+}
+
+
+#myhobby{
+	font-size: 25pt;
+	color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-style:italic ;
+}
+
+#hobby{
+	text-align: center;
+	margin-bottom: 0;
+}
+a{
+	color:black ;
+}
+
+head{
+	padding-top: 100px;
+}
+
+#listofhobbies{
+	color:rgb(210,84,0);
+	font-size: 15pt;
+	font-style: italic;
+	font-family:"Comic Sans MS", cursive, sans-serif ;
+}
+
+
+#home {
+	width:50px;
+	padding-left: 10px;
+}
+
+#homeblock{
+	background-color:rgb(3,88,81); 
+	height: 50px;
+	width:300px;
+	border-radius: 15px;
+	margin-left: 543px;
+	margin-top: 80px;
+}
+
+#backtohomepage{
+	font-size: 19pt;
+	font-style: italic;
+	font-family: "Comic Sans MS", cursive, sans-serif ;
+	padding-top: 8px;
+	text-align: center;
+}
+
+
+#pursuit{
+	margin-top:20px; 
+}
+}
+
+
+#homealone{
+	margin-top:70px;
+}
+
+
+#polphinn{
+	margin-top: 70px;
+}S
+
+img{
+	padding-right: : 10px;
+}
+
+a{
+	text-decoration: none;
+}
+
+#movie{
+	float: left;
+	width: 50px;
+	margin-right: 20px;
+	margin-left:20px ;
+	margin-top: 15px;
+}
+
+#movieblock {
+	border-radius: 50px;
+	background-color: rgb(210,84,0);
+	height: 80px;
+	width: 250px;
+	margin-left: 550px;
+	margin-top: 100px;
+}
+
+#movietext{
+	font-style: italic;
+	font-size: 25pt;
+	font-family: "Comic Sans MS", cursive, sans-serif ;
+	padding-top: 12px;
+}
+
+
+#inhatext{
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	font-size: 50pt;
+	margin-top:5px ;
+	font-family: "Open Sans", cursive, sans-serif;
+	color: rgb(51,0,101);
+}
+
+#inhablock{
+	margin-bottom: 100px;
+	border-radius: 2px;
+}
